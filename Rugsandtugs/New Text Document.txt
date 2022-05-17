@@ -1,0 +1,11 @@
+Control panel username:	b14_31739172
+Control panel password:	freewebsite
+Control panel URL:	cpanel.byethost14.com
+MySQL username	b14_31739172
+MySQL password:	**********
+MySQL hostname:	sql113.byethost14.com
+FTP username:	b14_31739172
+FTP password:	**********
+FTP host name:	ftp.byethost14.com
+Your Website URL:	http://rugsntugs.byethost14.com
+ 	 
